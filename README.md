@@ -1,3 +1,3 @@
-# Durham Geochemistry Centre
+# Durham Isotope Group
 
-- [SOPs](https://durhamgc.github.io/sops/)
+- [SOPs](https://DurhamIsotopeGroup.github.io/sops/)
